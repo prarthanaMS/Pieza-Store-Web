@@ -1,17 +1,26 @@
-🍕  Pieza - Pizza Shop Website
+# 🍕 Pieza - Premium Pizza Shop Website
 
-Welcome to the official website of Pieza, a tasty online pizza shop designed to showcase delicious pizzas with a simple, interactive layout.
+Welcome to **Pieza**, the ultimate destination for authentic, delicious pizzas presented through a sleek and intuitive online platform.
 
-🌐 Visit the Live Website:
-👉 https://prarthanams.github.io/Pieza-Store-Web/
+🌐 **Explore the Live Website:**  
+[https://prarthanams.github.io/Pieza-Store-Web/](https://prarthanams.github.io/Pieza-Store-Web/)
 
-🛠 This project was built using:
+---
 
-HTML
+## 🛠 Technology Stack
 
-CSS
+This project is meticulously crafted using:
 
-JavaScript
+- **HTML5** – Semantic and accessible markup  
+- **CSS3** – Modern styling and responsive design  
+- **JavaScript (ES6+)** – Interactive and dynamic user experience  
 
+---
 
-✨ Designed and Developed by Prarthana
+## ✨ Developed & Designed By
+
+**Prarthana** — Dedicated to creating seamless and delightful web experiences.
+
+---
+
+Thank you for visiting Pieza. Indulge in the magic of flavors with every click!
