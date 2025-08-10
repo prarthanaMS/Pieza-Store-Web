@@ -18,15 +18,6 @@
 
 ---
 
-## 📸 Screenshot Preview
-
-<p align="center">
-  <!-- Replace 'screenshot.png' with your actual screenshot file in the repo -->
-  <img src="screenshot.png" alt="Pieza Pizza Shop Screenshot" width="600" />
-</p>
-
----
-
 ## ✨ Features
 
 - 🍕 Mouth-watering pizza showcase with vibrant, high-quality images  
@@ -52,4 +43,5 @@
 1. **Clone the repository**  
 ```bash
 git clone https://github.com/prarthanams/Pieza-Store-Web.git
+
 
